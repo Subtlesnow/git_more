@@ -1,1 +1,1 @@
-function toLower()
+function toUpper()
