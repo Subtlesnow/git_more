@@ -1,4 +1,4 @@
-const fun = () => {
+const funny = () => {
   console.log('overwritten')
 }
 
